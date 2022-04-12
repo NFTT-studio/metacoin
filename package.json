@@ -1,0 +1,9 @@
+{
+   "name": "metacoin",
+   "version": "1.0.0",
+   "dependencies": {
+      "@openzeppelin/contracts": "^4.5.0",
+      "@truffle/hdwallet-provider": "^1.2.2",
+      "truffle": "^5.1.66"
+   }
+}
